@@ -12,7 +12,7 @@ class Developer:
         self.role = "CS / Software Engineering Student"
         self.location = "Egypt"
 
-        self.languages_spoken = ["Arabic (Egypt)", "English"]
+        self.languages_spoken = ["Arabic", "English"]
 
         self.programming_languages = [
             "Python",
